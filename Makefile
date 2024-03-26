@@ -1,7 +1,7 @@
 # Makefile
 
 # Команда по умолчанию
-.DEFAULT_GOAL := gen
+.DEFAULT_GOAL := generate
 
 # Переменные
 PROTO_DIR := ./contracts/proto
