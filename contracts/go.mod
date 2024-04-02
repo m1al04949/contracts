@@ -1,4 +1,4 @@
-module github.com/m1al04949/contracts
+module github.com/m1al04949/contracts/contracts
 
 go 1.21.6
 
